@@ -8,7 +8,7 @@ export class SelectingState extends State {
 		super({
 			name: 'selecting'
 		});
-		this.keys = ['shift'];
+		this.keys = ['SHIB'];
 
 		this.registerAction(
 			new Action({
