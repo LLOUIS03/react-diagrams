@@ -1,10 +1,11 @@
 {
 	"name": "@projectstorm/react-diagrams",
-	"author": "dylanvorster",
-	"private": true,
+	"version":"0.1.2",
+	"author": "Luis Louis",
+	"main":"packages/*",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/projectstorm/react-diagrams.git"
+		"url": "https://github.com/LLOUIS03/react-diagrams.git"
 	},
 	"workspaces": [
 		"diagrams-demo-gallery",
