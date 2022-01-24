@@ -1,6 +1,7 @@
 {
-	"name": "@projectstorm/react-diagrams",
+	"name": "react-diagrams-plus",
 	"version":"0.1.2",
+	"description": "Extendable file drawing tool for web",
 	"author": "Luis Louis",
 	"main":"packages/*",
 	"repository": {
